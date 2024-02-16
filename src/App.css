@@ -53,6 +53,10 @@
   margin: 10px 0px;
 }
 
+.main section div p {
+  overflow-wrap: anywhere;
+}
+
 .main section div div {
   display: flex;
   justify-content: space-between;
